@@ -5,7 +5,7 @@ use App\Http\Controllers\Dashboard;
 use App\Http\Controllers\Home;
 use App\Http\Controllers\ClassifiedAdController;
 use App\Http\Controllers\EpaperController;
-use App\Http\Controllers\ContactRequestController;
+use App\Http\Controlllers\ContactRequestController;
 
 
 
