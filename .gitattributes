@@ -1,0 +1,8 @@
+# All text files should have LF in repo, but convert to CRLF on Windows checkout
+* text=auto
+
+# Specific file types can also be set explicitly
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
